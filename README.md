@@ -12,7 +12,6 @@ python3 -m pip install praw
 ```
 <b>For windows</b>
 <p>1. Install Python 3.8 from www.python.org<br>2. Type the following in your cmd after it's installed:</p>
-<br>
 ```
 pip install praw
 ```
