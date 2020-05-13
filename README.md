@@ -10,7 +10,7 @@ don't worry. I will help you out right away.</p>
 sudo apt-get install python
 python3 -m pip install praw
 ```
-
+<br>
 <b>For windows</b>
 <p>1. Install Python 3.8 from www.python.org<br>2. Type the following in your cmd after it's installed:</p>
 ```
