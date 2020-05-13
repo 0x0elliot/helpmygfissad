@@ -10,9 +10,9 @@ don't worry. I will help you out right away.</p>
 sudo apt-get install python
 python3 -m pip install praw
 ```
-<br>
 <b>For windows</b>
 <p>1. Install Python 3.8 from www.python.org<br>2. Type the following in your cmd after it's installed:</p>
+<br>
 ```
 pip install praw
 ```
@@ -25,5 +25,5 @@ pip install praw
 ```
 <br>
 <h2>Advice</h2>
-<p>Edit the code for ease of use. Follow the comments. Also, Try not messing up that much. Though it's okay to lol.</p>
+<p>Edit the code for ease of use. Follow the comments. Also, Take care of her. It's okay to mess up sometimes too lol.</p>
 
