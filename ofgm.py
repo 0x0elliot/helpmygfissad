@@ -4,7 +4,6 @@ import time
 import random
 import smtplib
 import getpass
-from os import environ
 
 #If you're editing the code to make it easier then just follow the commments
 input('''
