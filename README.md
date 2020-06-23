@@ -1,7 +1,7 @@
 <h1>HELPMYGFISSAD</h1>
 <br>
 <p>Did you mess up and made your girlfriend mad? Or is she geniunely having a bad day?<br>Either ways dude
-don't worry. I will help you out right away.</p>
+don't worry. I will help you out right away. This project sends her cute links from reddit and would definitely make your girl's day.</p>
 <br>
 <h2>Installing Requirements</h2>
 <b>For Linux</b>
