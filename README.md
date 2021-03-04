@@ -2,6 +2,7 @@
 <br>
 <p>Did you mess up and made your girlfriend mad? Or is she geniunely having a bad day?<br>Either ways dude
 don't worry. I will help you out right away. This project sends her cute links from reddit to her email selected number of times. Would definitely make your girl's day.</p>
+<b>this is an old bad project. just take the inspiration you need and get your gf some chocalate</b>
 <br>
 <h2>Installing Requirements</h2>
 <b>For Linux</b>
